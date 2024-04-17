@@ -60,7 +60,6 @@
   <img src="https://img.shields.io/badge/Stack%20Overflow-EF8236?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="devendra"  />
   </a>
 </p>
-<img src="/assets/images/horizontal-divider-gradient.gif">
 <!-- Support me -->
 <h3 align="center">☕Support Me☕</h3>
 
@@ -85,9 +84,6 @@
 	</a>
 </p>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -100,9 +96,6 @@
 	<img src="https://skillicons.dev/icons?i=react,angular,webpack&perline=6" />
 	</a>
 </p>
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -115,9 +108,6 @@
 	<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,express&perline=6" />
 	</a>
 </p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -132,9 +122,6 @@
 	</a>
 </p>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -147,8 +134,6 @@
 	<img src="https://skillicons.dev/icons?i=firebase&perline=6" />
 	</a>
 </p>
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -162,9 +147,6 @@
 	<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis&perline=6" />
 	</a>
 </p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
