@@ -60,8 +60,16 @@
   <img src="https://img.shields.io/badge/Stack%20Overflow-EF8236?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="devendra"  />
   </a>
 </p>
-<br />
+<img src="/assets/images/horizontal-divider-gradient.gif">
+<!-- Support me -->
+<h3 align="center">☕Support Me☕</h3>
+
+<div align="center">
+  
+[![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/devendra_ssingh)
 <!--x axis divider-->
+
+<br />
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!--h1 without bottom border-->
