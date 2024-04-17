@@ -64,8 +64,8 @@
 <h3 align="center">☕Support Me☕</h3>
 
 <div align="center">
-  
-[![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/devendra_ssingh)
+
+[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bit.ly/4cU70bz)  [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/devendra_ssingh)
 <!--x axis divider-->
 
 <br />
