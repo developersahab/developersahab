@@ -118,7 +118,8 @@
 <!--tech stack icons-->
 <p align="center">
 	<a href="https://skillicons.dev">
-	<img src="https://skillicons.dev/icons?i=react,unity,ionic&perline=6" />
+	<img src="https://skillicons.dev/icons?i=react,unity&perline=6" />
+  <img src="/assets/images/ionic-icon.svg">
 	</a>
 </p>
 
