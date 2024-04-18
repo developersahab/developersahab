@@ -1,9 +1,9 @@
-<!--
+
 <h2 align="center">
-  Welcome to Devendra's World!
+  Full-Stack Developer: Crafting Dynamic Solutions with PHP, Node.js,Angular, Mobile Application and Cloud Infrastructure
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
+
 
 <!--
 <p align="center">
@@ -31,7 +31,10 @@
   <samp>
     <a href="#">「 Google Me 」</a>
     <br>
-    「 I am a full stack developer from <b>India</b> 」
+    「 As a full-stack developer adept in PHP, Node.js, Angular, React Native, Ionic, and cloud infrastructure management, I bring a wealth of expertise and a proven track record of delivering impactful solutions. I am thrilled about the opportunity to apply my skills and passion to drive innovation and success in the ever-evolving landscape of technology.
+    <br>
+    <br>
+    Let's connect and explore how we can collaborate to turn ideas into reality and propel your business forward! 」
     <br>
     <br>
   </samp>
