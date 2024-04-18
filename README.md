@@ -119,7 +119,7 @@
 <p align="center">
 	<a href="https://skillicons.dev">
 	<img src="https://skillicons.dev/icons?i=react,unity&perline=6" />
-  <img src="/assets/images/ionic-icon.svg">
+  <img src="/assets/images/ionic-icon.svg" width="48px" height="48px">
 	</a>
 </p>
 
